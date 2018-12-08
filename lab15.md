@@ -50,7 +50,8 @@
 		END CASE
 		输出字符矩阵
 	END WHILE
-	输出 Game Over!!! 
+	输出 Game Over!!!   
+    
 ### 3、函数设计   
 
 
